@@ -1,7 +1,7 @@
 from setuptools import setup
 
-setup(name='distibutions',
-      version='0.11',
+setup(name='gaus_bin_dists',
+      version='0.1',
       description='Gaussian and Binomial distributions',
-      packages=['distributions'],
+      packages=['gaus_bin_dists'],
       zip_safe=False)
