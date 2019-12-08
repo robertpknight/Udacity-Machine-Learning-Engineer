@@ -1,4 +1,4 @@
-# python package development
+# Python package development
 
 This repo holds the code for a package which can do some functions with
 Gaussian and Binomial distribution classes.
